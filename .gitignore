@@ -20,5 +20,9 @@ Test/
 __pycache__/
 *.pyc
 
+# Offline version (local only)
+transcribe_translate_offline.py
+requirements-offline.txt
+
 # macOS
 .DS_Store
