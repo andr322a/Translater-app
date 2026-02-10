@@ -1,0 +1,24 @@
+
+# Secrets
+.env
+
+# Video/audio files
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.m4a
+
+# Subtitle outputs
+*.srt
+
+# Subdirectories with media
+Kapwing/
+Test/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
