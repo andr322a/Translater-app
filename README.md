@@ -1,4 +1,4 @@
-# Video Subtitles: API mode
+# Subtitles App
 
 Transcribes Danish speech and translates it to English subtitles using OpenAI API, then burns them into the video with FFmpeg.
 
